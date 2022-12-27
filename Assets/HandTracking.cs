@@ -7,7 +7,7 @@ using NatML.Visualizers;
 namespace NatML
 {
     [MLModelDataEmbed("@natml/blazepalm-detector"), MLModelDataEmbed("@natml/blazepalm-landmark")]
-    public class TestHandTracking : MonoBehaviour
+    public class HandTracking : MonoBehaviour
     {
         /// <summary>
         /// Visualizer
